@@ -122,3 +122,18 @@ A cross platform shopping app written in React Native and Expo. The user can use
 ### <a name="rnother"></a> React-Native Apps using various native phone features  
 
 One app lets users record their routes as they move around – e.g., on a hike, bike ride, etc. Another captures Accelerometer, Gyroscope, Magnetometer and other information for a health app. Written in React Native/Expo, backend was either Firebase or Mongo/Express. 
+
+
+# Selected Online Courses
+
+|  | |
+|:--|:--|
+| Deep Learning Specialization|	5-part series offered by Andrew Ng on Coursera.|
+| Angular|	         	by Maximilian Schwarzmuller on Udemy |
+| MEAN Stack|			by Maximilian Schwarzmuller on Udemy |
+|React Native|		by Maximilian, and another by Stephen Grider  on Udemy |
+| Ionic |                              		by Maximilian Schwarzmuller on Udemy |
+|Solidity and Web3 |		by Stephen Grider on Udemy |
+| Blockchain basics |                        by Betina Warburg on Udemy |
+|Kubernetes, Docker |                    by Mumshad Mannambeth, and another by Stephen Grider on Udemy |
+|iot |				by Tom Jay on Udemy |
