@@ -2,7 +2,7 @@
 
 # Vannev Engineering Overview
 
-*Amarnath Mukherjee*
+*Amarnath Mukherjee*  
 October 13, 2011
 
 Vannev provides a collection of services. The platform is flexible. Each service is implemented in its own pool of servers. A pool exposes a subdomain, and may have its own pools at the backend, e.g., for search, background jobs, and caching.
