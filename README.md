@@ -1,6 +1,6 @@
 # Amarnath's Projects/Businesses
 
-## DSPS Forms <a name="dspsforms"></a>
+## <a name="dspsforms"></a> DSPS Forms 
 
 DSPS stands for Disabled Students Programs and Services. Federal law requires schools to provide accommodations for disabled students.  Schools typically have dedicated DSPS departments to address this need. DSPS departments have a number of processes that can be streamlined with technology. We provided an implementation of some of these processes. One solution was developed in 2018. A second, more comprehensive workflow for DSPS Advising was deployed during the pandemic (2020). 
 
@@ -12,7 +12,7 @@ Source code for the first solution: https://github.com/dspsforms/dspsForms
 Description: https://github.com/dspsforms/dspsForms/blob/master/STUDENT_INITIATED_FORMS.md 
  
 
-## Vannev  <a name="vannev"></a>
+## <a name="vannev"></a> Vannev  
 
 Vannev was architected to be a suite of apps. One app, Memex, was to help users capture all their online research. Items that users found interesting or useful could be saved in collections, as clips or links. Users could share, collaborate, and communicate on these with other users, while also keeping private notes. They could also have documents that were not found online. So the use case was that of a notebook in the cloud. One collection might be about everything the user is learning about Distributed Finance, while another could be about an upcoming vacation, and a third could be topics in Deep Learning. The user could also save insurance documents for their family, or frequent flier numbers and any other information they might need some day.  All information that a user has access to is searchable – whether they created the collection, or had access to it because someone shared it with them. Secure access was built into the architecture.
 
@@ -21,14 +21,14 @@ Sharing came with permission controls. A user could decide if another user or a 
 The system had a number of dedicated users. They indicated to us that they couldn’t live without it. However, with a shoestring budget, and zero marketing dollars, we weren’t able to grow the user base. The system was operational from late 2007 through mid 2014. One day, after we had contacted a venture capitalist, there was a hacker attack. At that point, we decided to close the project.
  
 
-## Artificial Intelligence Related <a name="ai"></a>
+## <a name="ai"></a> Artificial Intelligence Related 
  
-### 1255 Patterns – Text Mining/Machine Learning Technology <a name="1255patterns"></a>
+### <a name="1255patterns"></a> 1255 Patterns – Text Mining/Machine Learning Technology 
 
 This technology happened organically while trying to develop solutions to specific problems. A taxonomy engine that classified different parts of a document according to a given taxonomy, grouping relevant information, finding clusters of related data, etc. Initially, this was for semi-autonomous mapping of web-forms to a schema. Later, it was used to create a Contextual Advertisement engine, and generic (intelligent) screen scraping.
  
 
-### Contextual Ads <a name="contextads"></a>
+### <a name="contextads"></a> Contextual Ads 
 
 In the first version of the solution, web pages were mapped to a category – such as “new luxury sedan” or a “mid-sized rental sedan,” etc. 
 
@@ -53,9 +53,9 @@ Mapped web-forms to a given schema so they could be filled programmatically. Tur
 ### Other
 Several ideas are at various stages of investigation. 
 
-## Not for Profit <a name="notforprofit"></a>
+##  <a name="notforprofit"></a> Not for Profit
 
-### USArep.org <a name="usarep"></a>
+### <a name="usarep"></a> USArep.org 
 
 This webapp let people search for voting records of members of congress. It would also let users compare voting records of members. During the 2019 Presidential Primaries, users routinely compared voting records of candidates.  Comparing votes of members who appear similar reveal interesting information – e.g., which votes are hard, and how they really differ even if their rhetoric seems similar.
 Detailed results included information on the actual bill or amendment that was voted on (which were sometimes hard to find on the official site). Purpose of this site was to provide citizens with objective facts. The site was non-partisan.
@@ -67,33 +67,33 @@ Web App: https://github.com/usarep/repvote-angular8-node   The front end is Angu
 The data was updated with a variety of code: Perl and bash scripts, Java, and in some cases, Selenium + Java for following links on remote sites and scraping. Congressional data formats have evolved since – so Selenium scraping module is no longer needed. Some scripts are at https://github.com/usarep/repvoteScriptsv2 
 (Disclaimer: congressional data formats and urls keep changing, so these scripts may require some adaptation.)
 
-### ComparaPoll <a name="comparapoll"></a>
+### <a name="comparapoll"></a> ComparaPoll 
 
 ComparaPoll let people compare results from different types of polls – e.g., compare Rank Choice Voting, Fractional Voting, and a Traditional Poll. 
 Many people found it interesting. 
 
-### PDF Search <a name="pdfsearch"></a>
+### <a name="pdfsearch"></a> PDF Search 
 
 Search engine for (potentially, very large) PDF files. Each file could be a GB, for instance, with ~ 3000 pages. So, when a hit is found on a given page of a file, the system needs to display that page quickly, without having to load the entire file. Search  implemented with Solr, with search facets (filters) that are domain specific. For example, for legal case files, one might be interested in trial transcripts, evidence files, appeals documents, etc. Whereas, for accounting related receipts, filters may be for different categories of spend, or business units, or various other domain specific things.
  
  
 
-## Consulting <a name="consulting"></a>          	      	 	                                                                                          
+## <a name="consulting"></a> Consulting    	      	 	                                                                                          
 
-### Walmart Labs: LogSense Root Cause Analyzer <a name="logsense"></a>
+### <a name="logsense"></a> Walmart Labs: LogSense Root Cause Analyzer 
 
 Source code and description: https://github.com/logsense/logsense
 
 A log analysis tool to troubleshoot issues, bugs, security incidents, etc., in production, development, QA, and performance stress tests. For details, please see the github page above.
  
  
-### eBay: Search <a name="ebay"></a>
+### <a name="ebay"></a> eBay: Search 
 Implemented a number of features for the search team – e.g., search by proximity, redesigned eBay motors search, with features as specified by the Product team. 
 Also implemented the first version of SEO that actually worked (increased revenues by $1 million per week within 5 weeks of deployment, and much, much more after that). 
 
  
  
-### Qualys and Loglogic: Connectors <a name="qualys"></a>
+###  <a name="qualys"></a> Qualys and Loglogic: Connectors
 
 Implemented a number of connectors for Qualys and 3rd party systems – e.g., one was Qualys data, published on the Symantec Enterprise Server. This was then deployed for their joint customer, the State of California. 
 Another connector was between Qualys and Cisco IPS.  
@@ -106,16 +106,16 @@ Around this time, we were excited to create what became Vannev, so the consultin
 
 Most of them needed a product developed from scratch.  Areas: Log Analytics, Supervisor for Solar Power Plant, Security.
 
-## Recent self-learning projects <a name="selflearning"></a>
+## <a name="selflearning"></a> Recent self-learning projects 
 
-### CrowdCoin <a name="crowdcoin"></a>
+### <a name="crowdcoin"></a> CrowdCoin 
 
 A system similar to Kickstarter on the Ethereum Blockchain – but adding some checks so people raising the money didn’t just disappear. Every time they wanted to spend funds on something, that had to be approved by a majority of contributors to the fund. A smart contract could ensure that. The smart contract was in Solidity, the front end was in React. This was part of Stephen Grider’s class, modified to the current version of Solidity. 
 
-### React-Native Shopping App <a name="rnshopping"></a>
+### <a name="rnshopping"></a> React-Native Shopping App 
 
 A cross platform shopping app written in React Native and Expo. The user can use it for both buying and selling products. Worked on beautiful look and feel, user experience, state management, authentication, cart, checkout, historical orders, etc. The only thing we didn’t do is actually charge a credit card, or make a payment some other way. Clicking the pay button was as far as the app went – because this was only for learning. The project was based on Maximilian’s class. The code was written in React Native/Expo; the backend was Firebase. 
 
-### React-Native Apps using various native phone features  <a name="rnother"></a>
+### <a name="rnother"></a> React-Native Apps using various native phone features  
 
 One app lets users record their routes as they move around – e.g., on a hike, bike ride, etc. Another captures Accelerometer, Gyroscope, Magnetometer and other information for a health app. Written in React Native/Expo, backend was either Firebase or Mongo/Express. 
