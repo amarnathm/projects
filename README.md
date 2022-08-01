@@ -1,4 +1,4 @@
-# Amarnath's Projects
+# Amarnath's Projects/Businesses
 
 ## DSPS Forms
 
@@ -44,54 +44,55 @@ Many people found it interesting.
 
 Search engine for (potentially, very large) PDF files. Each file could be a GB, for instance, with ~ 3000 pages. So, when a hit is found on a given page of a file, the system needs to display that page quickly, without having to load the entire file. Search  implemented with Solr, with search facets (filters) that are domain specific. For example, for legal case files, one might be interested in trial transcripts, evidence files, appeals documents, etc. Whereas, for accounting related receipts, filters may be for different categories of spend, or business units, or various other domain specific things.
  
+## Artificial Intelligence Related
  
-## 1255 Patterns – Text Mining/Machine Learning Technology
+### 1255 Patterns – Text Mining/Machine Learning Technology
 
 This technology happened organically while trying to develop solutions to specific problems. A taxonomy engine that classified different parts of a document according to a given taxonomy, grouping relevant information, finding clusters of related data, etc. Initially, this was for semi-autonomous mapping of web-forms to a schema. Later, it was used to create a Contextual Advertisement engine, and generic (intelligent) screen scraping.
  
 
-## Contextual Ads
+### Contextual Ads
 
 In the first version of the solution, web pages were mapped to a category – such as “new luxury sedan” or a “mid-sized rental sedan,” etc. 
 
 In a later project, the objective was to generate search terms (keywords) that would search backend inventory and maximize ROI. Lots of interesting stuff developed. 
  
 
-## Autonomous Knowledge Miner
+### Autonomous Knowledge Miner
 
 For Contextual Ads to work for a large commercial space such as eBay, we needed to autonomously create mappings between phrases and commercial keywords, and assign them appropriate weights. This project was circa 2004-2005. The modern algorithm, Word2Vec, that performs an important pre-processing step in Natural Language Processing today has some similarities to what we were doing.  Word2Vec was invented much later in 2013.
 
  
 
-## Navigation Removal
+### Navigation Removal
 A customer needed a solution to extract news content from websites, minus all the navigation, headers and footers.  Also, extracting by-line. 
  
 
-## ChannelMap – Autonomous Form Mapping
+### ChannelMap – Autonomous Form Mapping
 
 Mapped web-forms to a given schema so they could be filled programmatically. Turns out, in pre-deep-learning days, this was a pretty hard problem to get right. Most eWallet companies trying this were getting very low accuracy. Our solution achieved over 90% accuracy.
  
  
-## Other
+### Other
 Several ideas are at various stages of investigation. 
  
 
-# Consulting            	      	 	                                                                                          
+## Consulting            	      	 	                                                                                          
 
-## Walmart Labs: LogSense Root Cause Analyzer
+### Walmart Labs: LogSense Root Cause Analyzer
 
 Source code and description: https://github.com/logsense/logsense
 
 A log analysis tool to troubleshoot issues, bugs, security incidents, etc., in production, development, QA, and performance stress tests. For details, please see the github page above.
  
  
-## eBay: Search
+### eBay: Search
 Implemented a number of features for the search team – e.g., search by proximity, redesigned eBay motors search, with features as specified by the Product team. 
 Also implemented the first version of SEO that actually worked (increased revenues by $1 million per week within 5 weeks of deployment, and much, much more after that). 
 
  
  
-## Qualys and Loglogic: Connectors
+### Qualys and Loglogic: Connectors
 
 Implemented a number of connectors for Qualys and 3rd party systems – e.g., one was Qualys data, published on the Symantec Enterprise Server. This was then deployed for their joint customer, the State of California. 
 Another connector was between Qualys and Cisco IPS.  
