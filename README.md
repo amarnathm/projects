@@ -19,6 +19,8 @@ Vannev was architected to be a suite of apps. One app, Memex, was to help users 
 Sharing came with permission controls. A user could decide if another user or a group had only read permissions, or if they could also write, share with others, clone the collection, etc. In terms of a timeline, these were happening before similar things appeared on Google Docs.
 
 The system had a number of dedicated users. They indicated to us that they couldn’t live without it. However, with a shoestring budget, and zero marketing dollars, we weren’t able to grow the user base. The system was operational from late 2007 through mid 2014. One day, after we had contacted a venture capitalist, there was a hacker attack. At that point, we decided to close the project.
+
+If interested, see  [Vannev Engineering Overview](./vannev-eng-overview.md)
  
 
 ## <a name="ai"></a> Artificial Intelligence Related 
