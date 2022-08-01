@@ -4,12 +4,12 @@
 
 DSPS stands for Disabled Students Programs and Services. Federal law requires schools to provide accommodations for disabled students.  Schools typically have dedicated DSPS departments to address this need. DSPS departments have a number of processes that can be streamlined with technology. We provided an implementation of some of these processes. One solution was developed in 2018. A second, more comprehensive workflow for DSPS Advising was deployed during the pandemic (2020). 
 
-A video demo/overview of the Advising solution is at https://www.youtube.com/watch?v=uBuMocQUaj0  
-Quick summary of features: https://www.dspsforms.com/advising-forms/ 
-Source code: https://github.com/dspsforms/dspsAdvisingFlow   (Angular/Ionic, Node, MongoDB, NodeMailer, etc.). 
+* [Video demo/overview of the Advising solution](https://www.youtube.com/watch?v=uBuMocQUaj0)  
+* [Quick summary of features](https://www.dspsforms.com/advising-forms/)  
+* [Source code](https://github.com/dspsforms/dspsAdvisingFlow)  (Angular/Ionic, Node, MongoDB, NodeMailer, etc.). 
 
-Source code for the first solution: https://github.com/dspsforms/dspsForms  
-Description: https://github.com/dspsforms/dspsForms/blob/master/STUDENT_INITIATED_FORMS.md 
+* [Source code for the first solution](https://github.com/dspsforms/dspsForms)  
+* [Description](https://github.com/dspsforms/dspsForms/blob/master/STUDENT_INITIATED_FORMS.md)
  
 
 ## <a name="vannev"></a> Vannev  
@@ -64,9 +64,10 @@ Detailed results included information on the actual bill or amendment that was v
 Developed a partnership with Ballotpedia.
 The system served ~ 1000-2000 users per day.  Politics, it turns out, is an emotional sport. Most people aren’t interested in objective data. Which is why, we decided to discontinue this experiment after the 2019 primary season.
 
-Source code: https://github.com/usarep 
-Web App: https://github.com/usarep/repvote-angular8-node   The front end is Angular Universal, back end is a thin layer of Node/Express + an API server in Java. Other systems: Mysql, Solr, etc. 
-The data was updated with a variety of code: Perl and bash scripts, Java, and in some cases, Selenium + Java for following links on remote sites and scraping. Congressional data formats have evolved since – so Selenium scraping module is no longer needed. Some scripts are at https://github.com/usarep/repvoteScriptsv2 
+* [Source code](https://github.com/usarep)  
+* [Web App](https://github.com/usarep/repvote-angular8-node)  The front end is Angular Universal, back end is a thin layer of Node/Express + an API server in Java. Other systems: Mysql, Solr, etc. 
+The data was updated with a variety of code: Perl and bash scripts, Java, and in some cases, Selenium + Java for following links on remote sites and scraping. Congressional data formats have evolved since – so Selenium scraping module is no longer needed. 
+* [Some Scripts](https://github.com/usarep/repvoteScriptsv2)
 (Disclaimer: congressional data formats and urls keep changing, so these scripts may require some adaptation.)
 
 ### <a name="comparapoll"></a> ComparaPoll 
@@ -84,7 +85,7 @@ Search engine for (potentially, very large) PDF files. Each file could be a GB, 
 
 ### <a name="logsense"></a> Walmart Labs: LogSense Root Cause Analyzer 
 
-Source code and description: https://github.com/logsense/logsense
+[Source code and description](https://github.com/logsense/logsense)
 
 A log analysis tool to troubleshoot issues, bugs, security incidents, etc., in production, development, QA, and performance stress tests. For details, please see the github page above.
  
