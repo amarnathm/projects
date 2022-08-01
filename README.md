@@ -133,7 +133,7 @@ One app lets users record their routes as they move around – e.g., on a hike, 
 | MEAN Stack|			by [Maximilian Schwarzmuller](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) on Udemy |
 |React Native|		by [Maximilian](https://www.udemy.com/course/react-native-the-practical-guide/), and another by [Stephen Grider](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) on Udemy |
 | Ionic |                              		by [Maximilian Schwarzmuller](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/) on Udemy |
-|Solidity and Web3 |		by [Stephen Grider](xhttps://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) on Udemy |
+|Solidity and Web3 |		by [Stephen Grider](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) on Udemy |
 | Blockchain basics |                        by [Betina Warburg](https://www.udemy.com/course/the-basics-of-blockchain/) on Udemy |
-|Kubernetes, Docker |                    by [Mumshad Mannambeth](https://www.udemy.com/course/learn-kubernetes/), and another by Stephen Grider on Udemy |
+|Kubernetes, Docker |                    by [Mumshad Mannambeth](https://www.udemy.com/course/learn-kubernetes/), and another by [Stephen Grider](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) on Udemy |
 |iot |				by [Tom Jay](https://www.udemy.com/course/iot-turn-a-light-on-with-your-iphone/) on Udemy |
