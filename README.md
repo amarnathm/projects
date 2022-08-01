@@ -35,17 +35,17 @@ In the first version of the solution, web pages were mapped to a category – su
 In a later project, the objective was to generate search terms (keywords) that would search backend inventory and maximize ROI. Lots of interesting stuff developed. 
  
 
-### Autonomous Knowledge Miner <a name="kminer"></a>
+### <a name="kminer"></a> Autonomous Knowledge Miner 
 
 For Contextual Ads to work for a large commercial space such as eBay, we needed to autonomously create mappings between phrases and commercial keywords, and assign them appropriate weights. This project was circa 2004-2005. The modern algorithm, Word2Vec, that performs an important pre-processing step in Natural Language Processing today has some similarities to what we were doing.  Word2Vec was invented much later in 2013.
 
  
 
-### Navigation Removal <a name="navremoval"></a>
+### <a name="navremoval"></a> Navigation Removal 
 A customer needed a solution to extract news content from websites, minus all the navigation, headers and footers.  Also, extracting by-line. 
  
 
-### ChannelMap – Autonomous Form Mapping <a name="channelmap"></a>
+### <a name="channelmap"></a> ChannelMap – Autonomous Form Mapping 
 
 Mapped web-forms to a given schema so they could be filled programmatically. Turns out, in pre-deep-learning days, this was a pretty hard problem to get right. Most eWallet companies trying this were getting very low accuracy. Our solution achieved over 90% accuracy.
  
