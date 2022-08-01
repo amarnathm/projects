@@ -126,7 +126,6 @@ One app lets users record their routes as they move around – e.g., on a hike, 
 
 # Selected Online Courses
 
-|  | |
 |:--|:--|
 | Deep Learning Specialization|	5-part series offered by Andrew Ng on Coursera.|
 | Angular|	         	by Maximilian Schwarzmuller on Udemy |
