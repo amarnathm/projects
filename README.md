@@ -20,8 +20,9 @@ Sharing came with permission controls. A user could decide if another user or a 
 
 The system had a number of dedicated users. They indicated to us that they couldn’t live without it. However, with a shoestring budget, and zero marketing dollars, we weren’t able to grow the user base. The system was operational from late 2007 through mid 2014. One day, after we had contacted a venture capitalist, there was a hacker attack. At that point, we decided to close the project.
  
- 
-## USArep.org
+## Not for Profit
+
+### USArep.org
 
 This webapp let people search for voting records of members of congress. It would also let users compare voting records of members. During the 2019 Presidential Primaries, users routinely compared voting records of candidates.  Comparing votes of members who appear similar reveal interesting information – e.g., which votes are hard, and how they really differ even if their rhetoric seems similar.
 Detailed results included information on the actual bill or amendment that was voted on (which were sometimes hard to find on the official site). Purpose of this site was to provide citizens with objective facts. The site was non-partisan.
@@ -33,14 +34,12 @@ Web App: https://github.com/usarep/repvote-angular8-node   The front end is Angu
 The data was updated with a variety of code: Perl and bash scripts, Java, and in some cases, Selenium + Java for following links on remote sites and scraping. Congressional data formats have evolved since – so Selenium scraping module is no longer needed. Some scripts are at https://github.com/usarep/repvoteScriptsv2 
 (Disclaimer: congressional data formats and urls keep changing, so these scripts may require some adaptation.)
 
- 
- 
-## ComparaPoll
+### ComparaPoll
 
 ComparaPoll let people compare results from different types of polls – e.g., compare Rank Choice Voting, Fractional Voting, and a Traditional Poll. 
 Many people found it interesting. 
 
-## PDF Search
+### PDF Search
 
 Search engine for (potentially, very large) PDF files. Each file could be a GB, for instance, with ~ 3000 pages. So, when a hit is found on a given page of a file, the system needs to display that page quickly, without having to load the entire file. Search  implemented with Solr, with search facets (filters) that are domain specific. For example, for legal case files, one might be interested in trial transcripts, evidence files, appeals documents, etc. Whereas, for accounting related receipts, filters may be for different categories of spend, or business units, or various other domain specific things.
  
