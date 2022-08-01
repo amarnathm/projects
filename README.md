@@ -113,11 +113,11 @@ Most of them needed a product developed from scratch.  Areas: Log Analytics, Sup
 
 ### <a name="crowdcoin"></a> CrowdCoin 
 
-A system similar to Kickstarter on the Ethereum Blockchain – but adding some checks so people raising the money didn’t just disappear. Every time they wanted to spend funds on something, that had to be approved by a majority of contributors to the fund. A smart contract could ensure that. The smart contract was in Solidity, the front end was in React. This was part of Stephen Grider’s class, modified to the current version of Solidity. 
+A system similar to Kickstarter on the Ethereum Blockchain – but adding some checks so people raising the money didn’t just disappear. Every time they wanted to spend funds on something, that had to be approved by a majority of contributors to the fund. A smart contract could ensure that. The smart contract was in Solidity, the front end was in React. This was part of [Stephen Grider’s class](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/), modified to the current version of Solidity. 
 
 ### <a name="rnshopping"></a> React-Native Shopping App 
 
-A cross platform shopping app written in React Native and Expo. The user can use it for both buying and selling products. Worked on beautiful look and feel, user experience, state management, authentication, cart, checkout, historical orders, etc. The only thing we didn’t do is actually charge a credit card, or make a payment some other way. Clicking the pay button was as far as the app went – because this was only for learning. The project was based on Maximilian’s class. The code was written in React Native/Expo; the backend was Firebase. 
+A cross platform shopping app written in React Native and Expo. The user can use it for both buying and selling products. Worked on beautiful look and feel, user experience, state management, authentication, cart, checkout, historical orders, etc. The only thing we didn’t do is actually charge a credit card, or make a payment some other way. Clicking the pay button was as far as the app went – because this was only for learning. The project was based on [Maximilian’s class](https://www.udemy.com/course/react-native-the-practical-guide/). The code was written in React Native/Expo; the backend was Firebase. 
 
 ### <a name="rnother"></a> React-Native Apps using various native phone features  
 
@@ -128,12 +128,12 @@ One app lets users record their routes as they move around – e.g., on a hike, 
 
 | Topic |  |
 |:--|:--|
-| Deep Learning Specialization|	5-part series offered by Andrew Ng on Coursera.|
-| Angular|	         	by Maximilian Schwarzmuller on Udemy |
-| MEAN Stack|			by Maximilian Schwarzmuller on Udemy |
-|React Native|		by Maximilian, and another by Stephen Grider  on Udemy |
-| Ionic |                              		by Maximilian Schwarzmuller on Udemy |
-|Solidity and Web3 |		by Stephen Grider on Udemy |
-| Blockchain basics |                        by Betina Warburg on Udemy |
-|Kubernetes, Docker |                    by Mumshad Mannambeth, and another by Stephen Grider on Udemy |
-|iot |				by Tom Jay on Udemy |
+| Deep Learning Specialization|	[5-part series](https://www.coursera.org/specializations/deep-learning) offered by Andrew Ng on Coursera.|
+| Angular|	         	by [Maximilian Schwarzmuller](https://www.udemy.com/course/the-complete-guide-to-angular-2/) on Udemy |
+| MEAN Stack|			by [Maximilian Schwarzmuller](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) on Udemy |
+|React Native|		by [Maximilian](https://www.udemy.com/course/react-native-the-practical-guide/), and another by [Stephen Grider](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) on Udemy |
+| Ionic |                              		by [Maximilian Schwarzmuller](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/) on Udemy |
+|Solidity and Web3 |		by [Stephen Grider](xhttps://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) on Udemy |
+| Blockchain basics |                        by [Betina Warburg](https://www.udemy.com/course/the-basics-of-blockchain/) on Udemy |
+|Kubernetes, Docker |                    by [Mumshad Mannambeth](https://www.udemy.com/course/learn-kubernetes/), and another by Stephen Grider on Udemy |
+|iot |				by [Tom Jay](https://www.udemy.com/course/iot-turn-a-light-on-with-your-iphone/) on Udemy |
