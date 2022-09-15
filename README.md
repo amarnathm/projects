@@ -117,7 +117,7 @@ A system similar to Kickstarter on the Ethereum Blockchain – but adding some c
 
 ### <a name="rnshopping"></a> React-Native Shopping App 
 
-A cross platform shopping app written in React Native and Expo. The user can use it for both buying and selling products. Worked on beautiful look and feel, user experience, state management, authentication, cart, checkout, historical orders, etc. The only thing we didn’t do is actually charge a credit card, or make a payment some other way. Clicking the pay button was as far as the app went – because this was only for learning. The project was based on [Maximilian’s class](https://www.udemy.com/course/react-native-the-practical-guide/). The code was written in React Native/Expo; the backend was Firebase. 
+[A cross platform shopping app written in React Native and Expo](https://github.com/amarnathm/react-native-shopping-app). The user can use it for both buying and selling products. Worked on beautiful look and feel, user experience, state management, authentication, cart, checkout, historical orders, etc. The only thing we didn’t do is actually charge a credit card, or make a payment some other way. Clicking the pay button was as far as the app went – because this was only for learning. The project was based on [Maximilian’s class](https://www.udemy.com/course/react-native-the-practical-guide/). The code was written in React Native/Expo; the backend was Firebase. 
 
 ### <a name="rnother"></a> React-Native Apps using various native phone features  
 
