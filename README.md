@@ -1,4 +1,10 @@
-# Amarnath's Businesses/Projects
+## Selected Projects - Amarnath Mukherjee
+
+These are some software and/or AI solutions developed by Amarnath Mukherjee. 
+
+Included requirements gathering, technical research, software development, live to site at customer, and extended support. 
+
+For solutions that were not developed in consulting mode, also included product-market fit, and pitching to new customers. 
 
 ## <a name="logsense"></a> LogSense Root Cause Analyzer  (for WalmartLabs)
 
