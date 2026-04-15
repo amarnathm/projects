@@ -9,7 +9,7 @@ For solutions that were not developed in consulting mode, also included product-
 ## <a name="logsense"></a> LogSense Root Cause Analyzer  (for WalmartLabs)
 
 * [Source code and description](https://github.com/logsense/logsense)
-* [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/logsense/logsense)
+  * [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/logsense/logsense)
 
 A log analysis tool to troubleshoot issues, bugs, security incidents, etc., in production, development, QA, and performance stress tests. For details, please see the github page above.
 
