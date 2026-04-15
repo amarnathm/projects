@@ -1,5 +1,12 @@
 # Amarnath's Businesses/Projects
 
+## <a name="logsense"></a> LogSense Root Cause Analyzer  (for WalmartLabs)
+
+* [Source code and description](https://github.com/logsense/logsense)
+* [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/logsense/logsense)
+
+A log analysis tool to troubleshoot issues, bugs, security incidents, etc., in production, development, QA, and performance stress tests. For details, please see the github page above.
+
 ## <a name="dspsforms"></a> DSPS Forms 
 
 DSPS stands for Disabled Students Programs and Services. Federal law requires schools to provide accommodations for disabled students.  Schools typically have dedicated DSPS departments to address this need. DSPS departments have a number of processes that can be streamlined with technology. We provided an implementation of some of these processes. One solution was developed in 2018. A second, more comprehensive workflow for DSPS Advising was deployed during the pandemic (2020). 
@@ -7,7 +14,7 @@ DSPS stands for Disabled Students Programs and Services. Federal law requires sc
 * [Video demo/overview of the Advising solution](https://www.youtube.com/watch?v=uBuMocQUaj0)  
 * [Quick summary of features](https://www.dspsforms.com/advising-forms/)  
 * [Source code](https://github.com/dspsforms/dspsAdvisingFlow)  (Angular/Ionic, Node, MongoDB, NodeMailer, etc.). 
-* [Architecture](https://deepwiki.com/dspsforms/dspsAdvisingFlow)
+* [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/dspsforms/dspsAdvisingFlow)
 
 * [Source code for the first solution](https://github.com/dspsforms/dspsForms)  
 * [Description](https://github.com/dspsforms/dspsForms/blob/master/STUDENT_INITIATED_FORMS.md)
@@ -25,6 +32,12 @@ If interested, see  [Vannev Engineering Overview](./vannev-eng-overview.md)
  
 
 ## <a name="ai"></a> Artificial Intelligence Related 
+
+**These are pre modern-AI.** 
+
+circa 1999-2005. 
+
+For current LLMs, these requirements are elementary. However, they were quite a challenge at the time.
  
 ### <a name="1255patterns"></a> 1255 Patterns – Text Mining/Machine Learning Technology 
 
@@ -68,7 +81,7 @@ The system served ~ 1000-2000 users per day.  Politics, it turns out, is an emot
 * [Source code](https://github.com/usarep)  
 * [Web App](https://github.com/usarep/repvote-angular8-node)  The front end is Angular Universal, back end is a thin layer of Node/Express + an API server in Java. Other systems: Mysql, Solr, etc. 
 The data was updated with a variety of code: Perl and bash scripts, Java, and in some cases, Selenium + Java for following links on remote sites and scraping. Congressional data formats have evolved since – so Selenium scraping module is no longer needed. 
-* [Architecture](https://deepwiki.com/usarep/repvote-angular8-node)
+* [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/usarep/repvote-angular8-node)
 * [Some Scripts](https://github.com/usarep/repvoteScriptsv2)
 (Disclaimer: congressional data formats and urls keep changing, so these scripts may require some adaptation.)
 
@@ -81,17 +94,8 @@ Many people found it interesting.
 
 Search engine for (potentially, very large) PDF files. Each file could be a GB, for instance, with ~ 3000 pages. So, when a hit is found on a given page of a file, the system needs to display that page quickly, without having to load the entire file. Search  implemented with Solr, with search facets (filters) that are domain specific. For example, for legal case files, one might be interested in trial transcripts, evidence files, appeals documents, etc. Whereas, for accounting related receipts, filters may be for different categories of spend, or business units, or various other domain specific things.
  
- 
 
 ## <a name="consulting"></a> Consulting    	      	 	                                                                                          
-
-### <a name="logsense"></a> Walmart Labs: LogSense Root Cause Analyzer 
-
-* [Architecture](https://deepwiki.com/logsense/logsense)
-* [Source code and description](https://github.com/logsense/logsense)
-
-A log analysis tool to troubleshoot issues, bugs, security incidents, etc., in production, development, QA, and performance stress tests. For details, please see the github page above.
- 
  
 ### <a name="ebay"></a> eBay: Search 
 Implemented a number of features for the search team – e.g., search by proximity, redesigned eBay motors search, with features as specified by the Product team. 
