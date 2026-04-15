@@ -20,9 +20,10 @@ DSPS stands for Disabled Students Programs and Services. Federal law requires sc
 * [Video demo/overview of the Advising solution](https://www.youtube.com/watch?v=uBuMocQUaj0)  
 * [Quick summary of features](https://www.dspsforms.com/advising-forms/)  
 * [Source code](https://github.com/dspsforms/dspsAdvisingFlow)  (Angular/Ionic, Node, MongoDB, NodeMailer, etc.). 
-* [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/dspsforms/dspsAdvisingFlow)
+  *  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/dspsforms/dspsAdvisingFlow)
 
 * [Source code for the first solution](https://github.com/dspsforms/dspsForms)  
+  * [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/dspsforms/dspsForms)
 * [Description](https://github.com/dspsforms/dspsForms/blob/master/STUDENT_INITIATED_FORMS.md)
  
 
@@ -84,11 +85,13 @@ Detailed results included information on the actual bill or amendment that was v
 Developed a partnership with Ballotpedia.
 The system served ~ 1000-2000 users per day.  Politics, it turns out, is an emotional sport. Most people aren’t interested in objective data. Which is why, we decided to discontinue this experiment after the 2019 primary season.
 
-* [Source code](https://github.com/usarep)  
+#### Source code  
 * [Web App](https://github.com/usarep/repvote-angular8-node)  The front end is Angular Universal, back end is a thin layer of Node/Express + an API server in Java. Other systems: Mysql, Solr, etc. 
 The data was updated with a variety of code: Perl and bash scripts, Java, and in some cases, Selenium + Java for following links on remote sites and scraping. Congressional data formats have evolved since – so Selenium scraping module is no longer needed. 
-* [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/usarep/repvote-angular8-node)
-* [Some Scripts](https://github.com/usarep/repvoteScriptsv2)
+  * [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/usarep/repvote-angular8-node)
+* [Some Scripts](https://github.com/usarep/repvoteScriptsv2).  
+  * [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/usarep/repvoteScriptsv2)
+
 (Disclaimer: congressional data formats and urls keep changing, so these scripts may require some adaptation.)
 
 ### <a name="comparapoll"></a> ComparaPoll 
